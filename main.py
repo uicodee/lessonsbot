@@ -13,7 +13,7 @@ dp = Dispatcher()
 
 
 async def main() -> None:
-    # logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=logging.DEBUG)
     bot = Bot(token=TOKEN, parse_mode="HTML")
     dp.include_router(command_router)
     dp.include_router(callback_router)

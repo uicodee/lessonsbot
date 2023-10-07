@@ -14,7 +14,7 @@ def lessons_keyboard(category_id: int) -> types.InlineKeyboardMarkup:
         )
     builder.button(
         text="Ortga",
-        callback_data="back"
+        callback_data="back_main"
     )
     builder.adjust(1)
     return builder.as_markup()

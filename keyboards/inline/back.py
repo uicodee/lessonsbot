@@ -6,6 +6,6 @@ def back_keyboard() -> types.InlineKeyboardMarkup:
     builder = InlineKeyboardBuilder()
     builder.button(
         text="Ortga",
-        callback_data="back"
+        callback_data="back_category"
     )
     return builder.as_markup()

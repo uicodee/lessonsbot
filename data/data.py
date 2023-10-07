@@ -6,6 +6,10 @@ lessons_categories = [
     {
         "id": 2,
         "name": "Telegram Bot (aiogram)"
+    },
+    {
+        "id": 3,
+        "name": "FastAPI"
     }
 ]
 
@@ -32,6 +36,13 @@ lessons = {
             "id": 1,
             "name": "Kirish. Aiogram asoslari",
             "file_id": "BAACAgIAAxkBAAICTGUeURjdXtFRdwws1W9CUYPGCQq1AALLLwACUhNJSbV-vAP4RQ2mMAQ"
+        },
+    ],
+    3: [
+        {
+            "id": 1,
+            "name": "Kirish. FastAPI asoslari",
+            "file_id": "BAACAgIAAxkBAAICy2UhJVVJAAGsoWNWxBCmmhMVBn97qAACZDIAAt7PaEkCdD8tVaXD3TAE"
         },
     ]
 }
