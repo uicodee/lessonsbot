@@ -46,3 +46,31 @@ lessons = {
         },
     ]
 }
+
+photos_categories = [
+    {
+        "id": 1,
+        "name": "Природа"
+    },
+    {
+        "id": 2,
+        "name": "Животные"
+    },
+    {
+        "id": 3,
+        "name": "4К"
+    }
+]
+
+photos = {
+    1: [
+        {
+            "id": 1,
+            "file_id": ""
+        },
+        {
+            "id": 2,
+            "file_id": ""
+        }
+    ]
+}
