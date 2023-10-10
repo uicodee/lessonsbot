@@ -74,3 +74,23 @@ photos = {
         }
     ]
 }
+
+users = [
+    {
+        "name": "Sarvinoz",
+        "user_id": 111
+    },
+    {
+        "name": "Asila",
+        "user_id": 111
+    },
+    {
+        "name": "Xushnoza",
+        "user_id": 111
+    }
+]
+
+blocklist = [547187822]
+admins = [547187822]
+
+ADMIN_ID = 547187822
